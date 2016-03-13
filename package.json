@@ -1,0 +1,48 @@
+{
+  "name": "generator-tmt",
+  "version": "1.0.0",
+  "description": "Yeoman generator for tmt-workflow",
+  "license": "MIT",
+  "main": "app/index.js",
+  "repository": "git://github.com/weixin/generator-tmt",
+  "homepage": "https://github.com/weixin/generator-tmt",
+  "bugs": "https://github.com/weixin/generator-tmt/issues",
+  "author": {
+    "name": "hzlzh",
+    "email": "hzlzh.dev@gmail.com",
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "app"
+  ],
+  "keywords": [
+    "workflow",
+    "gulp",
+    "f2e",
+    "yeoman-generator",
+    "retina",
+    "sprite",
+    "rem",
+    "webp",
+    "reversion",
+    "2x",
+    "weixin",
+    "tencent",
+    "wechat"
+  ],
+  "dependencies": {
+    "yeoman-generator": "~0.16.0",
+    "chalk": "~0.4.0"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "peerDependencies": {
+    "yo": ">=1.0.0"
+  }
+}
