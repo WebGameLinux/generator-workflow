@@ -20,7 +20,7 @@ Home Page: [https://www.npmjs.org/package/generator-workflow](https://www.npmjs.
 
 ## Preview
 
-![generator-workflow GIF preview](https://cloud.githubusercontent.com/assets/1049575/13744123/c7d7b842-ea20-11e5-84d3-60c58a6f61b5.gif)
+![generator-workflow GIF preview](https://cloud.githubusercontent.com/assets/1049575/13744821/77a67476-ea25-11e5-9cf3-eebf56ffbe03.gif)
 
 ## Notes
 
