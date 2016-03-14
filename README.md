@@ -20,7 +20,7 @@ Home Page: [https://www.npmjs.org/package/generator-tmt](https://www.npmjs.org/p
 
 ## Preview
 
-https://cloud.githubusercontent.com/assets/1049575/13740550/55900a28-ea0c-11e5-84ee-9aae8328547e.gif
+![generator-tmt GIF preview](https://cloud.githubusercontent.com/assets/1049575/13740550/55900a28-ea0c-11e5-84ee-9aae8328547e.gif)
 
 ## Notes
 
