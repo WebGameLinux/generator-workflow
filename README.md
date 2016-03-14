@@ -18,6 +18,10 @@ Home Page: [https://www.npmjs.org/package/generator-tmt](https://www.npmjs.org/p
 2. Run: `yo tmt`
 3. Enjoy.
 
+## Preview
+
+https://cloud.githubusercontent.com/assets/1049575/13740550/55900a28-ea0c-11e5-84ee-9aae8328547e.gif
+
 ## Notes
 
 * Feel free to `fork` and customize according to your project.
