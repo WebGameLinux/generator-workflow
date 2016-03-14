@@ -15,7 +15,7 @@ Home Page: [https://www.npmjs.org/package/generator-workflow](https://www.npmjs.
 ## Getting Started
 
 1. Install: `npm install -g generator-workflow`
-2. Run: `yo tmt`
+2. Run: `yo workflow`
 3. Enjoy.
 
 ## Preview
