@@ -68,6 +68,11 @@ var TmTGenerator = yeoman.generators.Base.extend({
 						value: 'includeWebp',
 						checked: false
 					},
+          {
+            name: '开启: 文件 Changed 支持        // 文只编译有变动的文件',
+            value: 'includeChanged',
+            checked: false
+          },
 					{
 						name: '开启: 文件 Reversion 支持      // 文件采用 MD5 新文件名',
 						value: 'includeReversion',
@@ -101,6 +106,7 @@ var TmTGenerator = yeoman.generators.Base.extend({
 			this.includeLivereload = hasFeature('includeLivereload');
 			this.includeRem = hasFeature('includeRem');
 			this.includeWebp = hasFeature('includeWebp');
+			this.includeChanged = hasFeature('includeChanged');
 			this.includeReversion = hasFeature('includeReversion');
 
 			// 预留 bower

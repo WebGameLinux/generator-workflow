@@ -35,6 +35,7 @@
     "posthtml-px2rem": "^0.0.3",
     "rc": "^1.1.6",
     "rd": "^0.0.2",
-    "tmt-ejs-helper": "^0.0.1"
+    "tmt-ejs-helper": "^0.0.1",
+    "crypto-md5": "^1.0.0"
   }
 }

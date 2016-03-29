@@ -27,6 +27,8 @@
 
   "supportREM": <%= _.classify(includeRem).toLowerCase() %>,
 
+  "supportChanged": <%= _.classify(includeChanged).toLowerCase() %>,
+
   "reversion": <%= _.classify(includeReversion).toLowerCase() %>
 
 }
